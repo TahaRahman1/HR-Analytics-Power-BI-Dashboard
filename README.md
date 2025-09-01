@@ -80,11 +80,6 @@ This project provided HR teams with **clear, data-driven insights** into workfor
 
 ---
 
-## **Screenshots & Visuals 📷**  
-![HR Analytics Dashboard](./hr_analytics_dashboard.png)  
-
----
-
 ## **Contact & Discussion 💬**  
 If you have any questions or want to collaborate, feel free to connect! 😊  
 - 🌐 **[GitHub](https://github.com/TahaRahman1)**  
